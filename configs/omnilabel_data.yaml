@@ -1,0 +1,11 @@
+DATASETS:
+  REGISTER:
+    omnilabel_test_fiber_800_960:
+      img_dir: "dataset/"
+      ann_file: "data/omnilabel/dataset_all_test_v0.1.3.json"
+
+
+  TRAIN: ("omnilabel_test",)
+  TEST: ("omnilabel_test",)
+DATALOADER:
+  ASPECT_RATIO_GROUPING: False
