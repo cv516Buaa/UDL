@@ -33,14 +33,11 @@ https://github.com/cv516Buaa/UDL.
 - [x] Release checkpoints
 - [ ] Release training and inference codes
 
-## Install
-```bash
-$ git clone https://github.com/cv516Buaa/UDL
-$ cd UDL
-$ cd demo
-$ python demo.py
-```
 ## Checkpoints
-* `UDL`:  | [Baidu Drive(pw: ovvg)](https://pan.baidu.com/s/1IHWS8_4yzR0SWvBp7qp9xw). |  [Google Drive](https://drive.google.com/file/d/1BhD1oWXddr6sb6SJdU0cRIpW91gfeDiU/view?usp=drive_link) |
+* `UDL`:  | [Baidu Drive(pw: udll)](https://pan.baidu.com/s/1IHWS8_4yzR0SWvBp7qp9xw). |  [Google Drive](https://drive.google.com/file/d/1BhD1oWXddr6sb6SJdU0cRIpW91gfeDiU/view?usp=drive_link) |
 
 ![teaser](./m_v.png)
+
+## Citation
+
+If you have any question, please discuss with me by sending email to wcl_buaa@buaa.edu.cn.
