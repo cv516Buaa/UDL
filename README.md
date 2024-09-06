@@ -34,7 +34,7 @@ https://github.com/cv516Buaa/UDL.
 - [ ] Release training and inference codes
 
 ## Checkpoints
-* `UDL`:  | [Baidu Drive(pw: udll)](https://pan.baidu.com/s/1IHWS8_4yzR0SWvBp7qp9xw). |  [Google Drive](https://drive.google.com/file/d/1BhD1oWXddr6sb6SJdU0cRIpW91gfeDiU/view?usp=drive_link) |
+* `UDL`:  | [Baidu Drive(pw: udll)](https://pan.baidu.com/s/1TP6MM1jRZqPpYv5cCqb0Og). |  [Google Drive](https://drive.google.com/file/d/1VJK8c7eYq5vDxJ7kqq6Dn4usNQNfDv8g/view?usp=drive_link) |
 
 ![teaser](./m_v.png)
 
